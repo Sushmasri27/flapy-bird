@@ -1,1 +1,2 @@
+# FLAPY BIRD
 A fully functional 2D Flappy Bird game built in pure Java, leveraging Swing for GUI and real-time rendering. The project implements a game loop, keyboard input handling, dynamic pipe movement, and scoring logic. It serves as an educational example of how to structure simple games using object-oriented principles. The clean and modular codebase makes it easy to extend or customize. Ideal for students, hobbyists, or developers new to game programming.
